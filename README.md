@@ -1,6 +1,6 @@
 # ocean-node
 ocean-node命令和状态查询
-### 在线状态插叙
+### 在线状态查询
 [oceannodes](https://rewards.autobotocean.com/#)
 ### docker重启
 ```
