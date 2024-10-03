@@ -23,3 +23,7 @@ docker-compose up -d
 sudo ufw allow 8000/tcp
 sudo ufw allwo 9000:9003/tcp
 ```
+### 查看日志
+```
+docker logs --tail 100 -f ocean-node
+```
