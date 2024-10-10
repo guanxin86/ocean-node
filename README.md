@@ -1,7 +1,8 @@
 # ocean-node
 ocean-node命令和状态查询
 ### 在线状态查询
-[oceannodes](https://rewards.autobotocean.com/#)
+[reward](https://rewards.autobotocean.com/#)
+[oceannode](https://nodes.oceanprotocol.com/?source=post_page-----6d53e757cbb1--------------------------------)
 ### docker重启
 ```
 docker restart ocean-node
