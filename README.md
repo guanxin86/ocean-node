@@ -23,7 +23,7 @@ docker-compose up -d
 ### 需要开放的端口
 ```
 sudo ufw allow 8000/tcp
-sudo ufw allwo 9000:9003/tcp
+sudo ufw allow 9000:9003/tcp
 ```
 ### 查看日志
 ```
