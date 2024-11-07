@@ -1,5 +1,7 @@
 # ocean-node
-ocean-node命令和状态查询
+## 官方教程
+### [官方教程](https://github.com/oceanprotocol/ocean-node/blob/main/docs/dockerDeployment.md)
+## ocean-node命令和状态查询
 ### 在线状态查询
 [reward](https://rewards.autobotocean.com/#)
 
